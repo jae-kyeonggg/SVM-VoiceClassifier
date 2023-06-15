@@ -12,12 +12,6 @@
 
 ![2](https://github.com/jae-kyeonggg/SVMClassifier/assets/100292156/573b892e-d435-4c96-b8f3-869034059b49)
 
-### 파일 계층
-
----
-
-![3](https://github.com/jae-kyeonggg/SVMClassifier/assets/100292156/35740103-0689-4b6d-8899-c1b3c70afd17)
-
 ### 사용한 라이브러리, 모듈
 
 ---
