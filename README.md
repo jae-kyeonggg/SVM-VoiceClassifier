@@ -10,6 +10,11 @@
 
 ![1](https://github.com/jae-kyeonggg/SVMClassifier/assets/100292156/d8503196-cf55-4995-822c-71cb0e9c045b)
 
+--- 
+### **실제 평가 결과**
+
+# 95.22% (857 / 900)
+
 ## **손실 곡선**
 
 ---
